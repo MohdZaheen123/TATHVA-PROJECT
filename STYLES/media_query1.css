@@ -1,0 +1,283 @@
+@media (Min-width:2770px) {
+    .container {
+        grid-template-rows: 76rem 58rem 135rem 123rem 90rem 50rem;
+        width: 100%;
+        margin: auto;
+        height: 532rem;
+    }
+
+    .images img {
+        width: 138rem;
+        height: 69rem;
+    }
+
+    .para pre {
+        top: 11rem;
+        font-size: 3.5rem;
+        left: 14rem;
+    }
+
+    .black {
+        height: 7rem;
+        width: 18rem;
+    }
+
+    .black a {
+        font-size: 3rem;
+    }
+
+    .numbers {
+        position: relative;
+        left: 16rem;
+        width: 40rem;
+    }
+
+    .numbers b {
+        font-size: 12rem;
+    }
+
+    .eight {
+        position: relative;
+        left: -1rem;
+    }
+
+    .ten_para {
+        font-size: 3.4rem;
+        left: 2.5rem;
+        top: -5rem;
+    }
+
+    .eight_para {
+        font-size: 3.5rem;
+        left: -9rem;
+        top: -4rem;
+    }
+
+    .animation {
+        height: 16rem;
+        width: 11rem;
+    }
+
+    .itm-1 img {
+        width: 51rem;
+        left: -32rem;
+        top: 5rem;
+        position: relative;
+        height: 55rem;
+    }
+
+    .itm-2 img {
+        width: 55rem;
+        height: 55rem;
+        position: relative;
+        top: 5rem;
+        right: 0rem;
+    }
+
+    .itm-3 img {
+        width: 61rem;
+        height: 52rem;
+        position: relative;
+        left: -32rem;
+        top: 39rem;
+    }
+
+    .itm-4 img {
+        width: 45rem;
+        height: 52rem;
+        position: relative;
+        top: 39rem;
+        left: 10rem;
+
+    }
+
+    .item-4 pre {
+        font-size: 3rem;
+    }
+
+    .box-1 {
+        position: relative;
+        top: -4rem;
+        width: 178rem;
+        display: block;
+        margin: auto;
+    }
+
+    .box-2 {
+        position: relative;
+        top: -11rem;
+        width: 178rem;
+        display: block;
+        margin: auto;
+    }
+
+    .rv {
+        font-size: 7rem;
+        margin: 5rem;
+    }
+
+    .box img {
+        top: 11rem;
+        height: 7rem;
+        width: 7rem;
+    }
+
+    .item-4 pre b {
+        font-size: 3.5rem;
+        line-height: 15rem;
+    }
+
+    .item-5 pre {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    .para-2 {
+        left: -5.5rem;
+    }
+
+    .headding-1 {
+        font-size: 4rem;
+    }
+
+    .headding-2 {
+        font-size: 4rem;
+    }
+
+    .para-box-1 {
+        width: 178rem;
+        margin: auto;
+    }
+
+    .para-box-2 {
+        width: 168rem;
+        margin: auto;
+    }
+
+    .faq {
+        font-size: 6rem;
+    }
+
+    .logo-2 a {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .logo-2 h1 {
+        font-size: 3.3rem;
+        margin-top: 0.5rem;
+    }
+
+    .logo-2 {
+        top: 5.5rem;
+        left: 9rem;
+    }
+
+    /* .item-6 a{
+     font-size: 2.5rem;
+    } */
+    .allign a {
+        font-size: 3.3rem;
+    }
+
+    .item-6 hr {
+        top: 15rem;
+    }
+
+    .inf-1 {
+        width: 49rem;
+        top: 10rem;
+        font-size: 2.3rem;
+        left: 9rem;
+    }
+
+    .inf-2 {
+        right: 40rem;
+        top: 6.4rem;
+        font-size: 2.3rem;
+    }
+
+    .inf-3 {
+        right: 16rem;
+        top: 3.8rem;
+        font-size: 2.3rem;
+    }
+
+    .conta {
+        margin-right: 28rem;
+    }
+
+    .item-3 b {
+        font-size: 8rem;
+    }
+
+    .animation-2 {
+        height: 12rem;
+        width: 15rem;
+    }
+
+    .nav_menu ul li a {
+        font-size: 3rem;
+    }
+
+    .nav_menu ul li {
+        margin-top: 2.5rem;
+    }
+
+    .head h1 pre {
+        font-size: 10rem;
+        left: -25.4rem;
+        top: 16rem;
+    }
+
+    .container {
+        top: 70rem;
+    }
+
+    .grey pre {
+        top: 40rem;
+        left: 13rem;
+        font-size: 4rem;
+    }
+
+    .blue {
+        width: 18rem;
+        height: 7rem;
+        margin: 1rem;
+    }
+
+    .white {
+        width: 18rem;
+        height: 7rem;
+        margin: 1rem;
+    }
+
+    .button {
+        top: 46rem;
+        left: 13rem;
+    }
+
+    .button a {
+        font-size: 3rem;
+    }
+
+    .logo span {
+        font-size: 4rem;
+        top: 0;
+        left: 7rem;
+    }
+
+    .logo a img {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .logo-2 img {
+        height: 5rem;
+    }
+
+    .social img {
+        width: 2rem;
+        height: 2rem;
+    }
+}

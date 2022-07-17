@@ -1,0 +1,47 @@
+@media (max-width:1248px) and (min-width:1133px) {
+    .para-1 {
+        font-size: 1.6rem;
+    }
+
+    .para-2 {
+        font-size: 1.6rem;
+    }
+
+    .item-4 pre {
+        font-size: 1.6rem;
+    }
+
+    .container {
+        grid-template-rows: 39rem 35rem 63rem 60rem 46rem 27rem;
+    }
+
+    .numbers {
+        width: 26rem;
+        margin-top: 5rem;
+    }
+
+    .para pre {
+        font-size: 1.6rem;
+        top: 8rem;
+        left: 0;
+    }
+
+    .head h1 pre {
+        font-size: -14.5rem;
+        left: -14.4rem;
+        top: 7rem;
+    }
+
+    .grey pre {
+        left: 1.2rem;
+    }
+
+    .button {
+        left: 1.3rem;
+    }
+
+    .images img {
+        width: 62rem;
+        height: 32rem;
+    }
+}
